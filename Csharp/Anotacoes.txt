@@ -1,2 +1,0 @@
-Fila -> FIFO(First In First Out/primeiro que entrou primeiro que saiu)
-Ler uma pilha de livros -> LIFO(Last In First Out)
