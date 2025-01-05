@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Wendel\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\",
+  "WorkspaceRootPath": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\wendel\\documents\\github\\csharp\\meusprojetoscsharp\\meusprojetoscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\fundamentos\\interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\fundamentos\\interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\centraldeexercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\fundamentos\\inferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\fundamentos\\inferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\fundamentos\\variaveiseconstantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\exercicios meus\\calculadora_diametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\exercicios meus\\calculadora_diametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\anotacoes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\anotacoes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +43,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Interpolacao.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\Interpolacao.cs",
+              "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\Interpolacao.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\Interpolacao.cs*",
+              "RelativeToolTip": "MeusProjetosCSharp\\Fundamentos\\Interpolacao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:47:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CentralDeExercicios.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\CentralDeExercicios.cs",
+              "RelativeDocumentMoniker": "MeusProjetosCSharp\\CentralDeExercicios.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\CentralDeExercicios.cs",
+              "RelativeToolTip": "MeusProjetosCSharp\\CentralDeExercicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:26:09.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inferencia.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\Inferencia.cs",
+              "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\Inferencia.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\Inferencia.cs",
+              "RelativeToolTip": "MeusProjetosCSharp\\Fundamentos\\Inferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:25:38.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VariaveisEConstantes.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "RelativeToolTip": "MeusProjetosCSharp\\Fundamentos\\VariaveisEConstantes.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwD8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:20:55.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "calculadora_diametro.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Exercicios meus\\calculadora_diametro.cs",
+              "RelativeDocumentMoniker": "MeusProjetosCSharp\\Exercicios meus\\calculadora_diametro.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Exercicios meus\\calculadora_diametro.cs",
+              "RelativeToolTip": "MeusProjetosCSharp\\Exercicios meus\\calculadora_diametro.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAgwH8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:43:49.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Anotacoes.txt",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Anotacoes.txt",
+              "RelativeDocumentMoniker": "MeusProjetosCSharp\\Anotacoes.txt",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Anotacoes.txt",
+              "RelativeToolTip": "MeusProjetosCSharp\\Anotacoes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T22:16:10.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Wendel\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\MeusProjetosCSharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Program.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Program.cs",
-              "ToolTip": "C:\\Users\\Wendel\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\MeusProjetosCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Program.cs",
               "RelativeToolTip": "MeusProjetosCSharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T20:11:46.032Z",
               "EditorCaption": ""

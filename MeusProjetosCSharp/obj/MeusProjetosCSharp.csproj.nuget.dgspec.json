@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\welli\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj": {}
+    "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\welli\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj": {
+    "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\welli\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj",
         "projectName": "MeusProjetosCSharp",
-        "projectPath": "C:\\Users\\welli\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj",
+        "projectPath": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\MeusProjetosCSharp.csproj",
         "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\welli\\Documents\\GitHub\\Csharp\\MeusProjetosCSharp\\MeusProjetosCSharp\\obj\\",
+        "outputPath": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\welli\\AppData\\Roaming\\NuGet\\NuGet.Config",

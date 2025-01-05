@@ -42,10 +42,10 @@ namespace Csharp.Fundamentos
             uint populacaoBrasileira = 207_600_000;// Inteiro sem sinal, nao podendo ser negativo
             Console.WriteLine("Populacao brasileira: {0}",populacaoBrasileira);
 
-            long menorValorLong = long.MinValue;
+            long menorValorLong = long.MinValue;// Com sinal
             Console.WriteLine("Menor valor do long: {0}",menorValorLong);
 
-            ulong populacaoMundial = 7_600_000_000_000;
+            ulong populacaoMundial = 7_600_000_000_000;// Sem sinal
             Console.WriteLine("Populacao mundial: {0}",populacaoMundial);
 
             float precoContador = 1299.9f;//F depois do numeral para atribuir ao tipo float e nao double
@@ -60,7 +60,7 @@ namespace Csharp.Fundamentos
             char letra = 'b';
             Console.WriteLine("Letra: {0}",letra);
 
-            string frase = "Ola! seja muito bem vindo!";
+            string frase = "Ola mundo! seja muito bem vindo!";
             Console.WriteLine("Frase: {0}",frase);
 
         }
