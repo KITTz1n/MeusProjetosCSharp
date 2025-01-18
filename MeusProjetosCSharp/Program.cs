@@ -16,6 +16,9 @@ namespace Csharp {
                 {"Variaveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
                 {"Inferência - Fundamentos", Inferencia.Executar},
                 {"Intepolação - Fundamentos", Interpolacao.Executar},
+                {"Notação Ponto - Fundamentos", NotacaoPonto.Executar},
+                {"Lendo Dados - Fundamentos", LendoDados.Executar},
+                {"Formantando Numeros - Fundamentos", FormatandoNumeros.Executar},
             });
 
             central.SelecionarEExecutar();
