@@ -19,6 +19,8 @@ namespace Csharp {
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar},
                 {"Lendo Dados - Fundamentos", LendoDados.Executar},
                 {"Formantando Numeros - Fundamentos", FormatandoNumeros.Executar},
+                {"Conversoes - Fundamentos", Conversoes.Executar},
+                {"Operadores Aritmeticos - Fundamentos", OperadoresAritmeticos.Executar},
             });
 
             central.SelecionarEExecutar();
