@@ -10,6 +10,7 @@ namespace MeusProjetosCSharp.Fundamentos
             // && <- usado como and( e )
             // || <- usado como or( ou )
             // ^ <- usado como xor( exclusivo -> significado: exige que apenas 1 valor de correto, caso passe de 1 dara falso )
+            // ! <- usado como not( negacao )
 
             var executouTask1 = true;
             var executouTask2 = false;
