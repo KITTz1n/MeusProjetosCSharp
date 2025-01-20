@@ -23,6 +23,9 @@ namespace Csharp {
                 {"Operadores Aritmeticos - Fundamentos", OperadoresAritmeticos.Executar},
                 {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
                 {"Operadores Logicos - Fundamentos", OperadoresLogicos.Executar},
+                {"Operadores de Atribuicao - Fundamentos", OperadoresAtribuicao.Executar},
+                {"Operadores Unarios - Fundamentos", OperadoresUnarios.Executar},
+                {"Operador Ternario - Fundamentos", OperadorTernario.Executar},
             });
 
             central.SelecionarEExecutar();
