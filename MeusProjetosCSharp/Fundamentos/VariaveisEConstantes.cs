@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp.Fundamentos
+namespace MeusProjetosCSharp.Fundamentos
 {
     internal class VariaveisEConstantes
     {

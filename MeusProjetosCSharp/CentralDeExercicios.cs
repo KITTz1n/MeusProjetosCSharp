@@ -13,7 +13,7 @@ namespace Csharp {
         public void SelecionarEExecutar() {
 
             int i = 1;
-
+            
             foreach (var exercicio in Exercicios) {
                 Console.WriteLine("{0} -> {1}", i, exercicio.Key);
                 i++;

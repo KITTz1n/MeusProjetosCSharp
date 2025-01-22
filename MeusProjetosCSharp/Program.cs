@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-using Csharp.Fundamentos;
+
 using Csharp.Exercicios;
 using MeusProjetosCSharp.Fundamentos;
 

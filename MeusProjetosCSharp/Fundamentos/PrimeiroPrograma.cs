@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Csharp.Fundamentos//Encontrando o arquivo
+namespace MeusProjetosCSharp.Fundamentos//Encontrando o arquivo
 {
     class PrimeiroPrograma//Classe do programa
     {
