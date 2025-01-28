@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\estruturadecontrole\\etruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\estruturadecontrole\\etruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|c:\\users\\welli\\documents\\github\\meusprojetoscsharp\\meusprojetoscsharp\\fundamentos\\formatandonumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AFD8861-01B0-4DF9-962C-DDCEDF972A5A}|MeusProjetosCSharp\\MeusProjetosCSharp.csproj|solutionrelative:meusprojetoscsharp\\fundamentos\\formatandonumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EtruturaWhile.cs",
+              "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\EstruturaDeControle\\EtruturaWhile.cs",
+              "RelativeDocumentMoniker": "MeusProjetosCSharp\\EstruturaDeControle\\EtruturaWhile.cs",
+              "ToolTip": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\EstruturaDeControle\\EtruturaWhile.cs",
+              "RelativeToolTip": "MeusProjetosCSharp\\EstruturaDeControle\\EtruturaWhile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:34:21.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormatandoNumeros.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\FormatandoNumeros.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\FormatandoNumeros.cs",
@@ -62,12 +79,11 @@
               "RelativeToolTip": "MeusProjetosCSharp\\Fundamentos\\FormatandoNumeros.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T21:15:29.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T21:15:29.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LendoDados.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\LendoDados.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\LendoDados.cs",
@@ -79,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NotacaoPonto.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\NotacaoPonto.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\NotacaoPonto.cs",
@@ -91,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Interpolacao.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\Interpolacao.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\Interpolacao.cs",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CentralDeExercicios.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\CentralDeExercicios.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\CentralDeExercicios.cs",
@@ -115,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Inferencia.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\Inferencia.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\Inferencia.cs",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "VariaveisEConstantes.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Fundamentos\\VariaveisEConstantes.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Fundamentos\\VariaveisEConstantes.cs",
@@ -139,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "calculadora_diametro.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Exercicios meus\\calculadora_diametro.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Exercicios meus\\calculadora_diametro.cs",
@@ -151,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Anotacoes.txt",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Anotacoes.txt",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Anotacoes.txt",
@@ -163,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\welli\\Documents\\GitHub\\MeusProjetosCSharp\\MeusProjetosCSharp\\Program.cs",
               "RelativeDocumentMoniker": "MeusProjetosCSharp\\Program.cs",
