@@ -36,6 +36,11 @@ namespace Csharp {
                 {"Estrutura If/Else if - Estrutura de controle", EstruturaIfElseIf.Executar},
                 {"Estrutura Switch - Estrutura de controle", EstruturaSwitch.Executar},
                 {"Estrutura While - Estrutura de controle", EstruturaWhile.Executar},
+                {"Estrutura Do While - Estrutura de controle", EstruturaDoWhile.Executar},
+                {"Estrutura For - Estrutura de controle", EstruturaFor.Executar},
+                {"Estrutura ForEach - Estrutura de controle", EstruturaForEach.Executar},
+                {"Estrutura Break - Estrutura de controle", EstruturaBreak.Executar},
+                {"Estrutura Continue - Estrutura de controle", EstruturaContinue.Executar},
             });
 
             central.SelecionarEExecutar();
