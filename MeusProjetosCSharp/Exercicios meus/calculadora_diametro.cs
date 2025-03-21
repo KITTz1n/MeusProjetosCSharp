@@ -11,6 +11,7 @@ namespace MeusProjetosCSharp.Exercicios
         public static void Executar()
         {
             bool sair = false;
+
             /*
              *      SEMPRE PERGUNTAR O VALOR DE PI
              * caso escolha calcular o diametro, perguntar o raio
@@ -24,6 +25,7 @@ namespace MeusProjetosCSharp.Exercicios
              * area sera: PI vezes o raio ao quadrado
              * circunferencia sera: 2 vezes PI vezes o raio
              */
+
             while (sair == false)
             {
                 double escolha2 = 0;
@@ -36,7 +38,7 @@ namespace MeusProjetosCSharp.Exercicios
 
                 Console.WriteLine("Digite o que voce deseja calcular: \n");
 
-                string escolha = Console.ReadLine();
+                var escolha = Console.ReadLine();
                 
                 if (escolha != "")
                 {
