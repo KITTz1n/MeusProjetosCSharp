@@ -18,34 +18,41 @@ namespace Csharp {
                 Console.WriteLine("{0} -> {1}", i, exercicio.Key);
                 i++;
             }
+            var numero_sair = i;
+            Console.WriteLine("{0} -> Sair",numero_sair);
 
             Console.Write("\nEscolha (vazio para o último):\n");
 
             int.TryParse(Console.ReadLine(), out int num);
-            bool numValido = num > 0 && num <= Exercicios.Count;
-            num = numValido ? num - 1 : Exercicios.Count - 1;
+            bool numValido = num > 0 && num <= numero_sair;
+            if (num == numero_sair)
+            {
+                Console.WriteLine("Saindo...");
+            }
+            else
+            {
+                num = numValido ? num -1 : Exercicios.Count -1;
 
-            string nomeDoExercicio = Exercicios.ElementAt(num).Key;
-
-            Console.Write("\nExecutando exercício ");
-            Console.BackgroundColor = ConsoleColor.White;
-            Console.ForegroundColor = ConsoleColor.Black;
-            Console.WriteLine(nomeDoExercicio);
-            Console.ResetColor();
-            Console.WriteLine();
-            Console.WriteLine(String.Concat(
-                Enumerable.Repeat("-", nomeDoExercicio.Length + 21)) + "\n");
-
-            Action executar = Exercicios.ElementAt(num).Value;
-            try {
-                executar();
-            } catch(Exception e) {
-                Console.BackgroundColor = ConsoleColor.Red;
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("Ocorreu um erro: {0}", e.Message);
+                string nomeDoExercicio = Exercicios.ElementAt(num).Key;
+                Console.Write("\nExecutando exercício ");
+                Console.BackgroundColor = ConsoleColor.White;
+                Console.ForegroundColor = ConsoleColor.Black;
+                Console.WriteLine(nomeDoExercicio);
                 Console.ResetColor();
+                Console.WriteLine();
+                Console.WriteLine(String.Concat(
+                    Enumerable.Repeat("-", nomeDoExercicio.Length + 21)) + "\n");
+                Action executar = Exercicios.ElementAt(num).Value;
+                try {
+                    executar();
+                } catch(Exception e) {
+                    Console.BackgroundColor = ConsoleColor.Red;
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("Ocorreu um erro: {0}", e.Message);
+                    Console.ResetColor();
 
-                Console.WriteLine(e.StackTrace);
+                    Console.WriteLine(e.StackTrace);
+                }
             }
         }
     }
