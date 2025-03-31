@@ -8,8 +8,6 @@ Este repositório contém alguns dos meus projetos desenvolvidos em **C#**.
   <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-0D1117?style=for-the-badge&logo=C&logoColor=AF69CD"/>
 </div>
 
-...
-
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```sh
