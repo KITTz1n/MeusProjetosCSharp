@@ -5,7 +5,7 @@ Este repositório contém alguns dos meus projetos desenvolvidos em **C#**.
 ## 🔧 Linguagem Utilizada
 
 <div style="display: inline_block">
-  <img align="center" alt="Csharp" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=Csharp&logoColor=AF69CD"/>
+  <img aling="center" alt="html5" src="https://img.shields.io/badge/SHARP-0D1117?style=for-the-badge&logo=C&logoColor=AF69CD"/>
 </div>
 
 ...
